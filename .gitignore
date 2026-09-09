@@ -1,5 +1,5 @@
-.env
-.env*
 *.log
 __pycache__/
 *.pyc
+config.bat
+node_modules
